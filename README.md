@@ -5,6 +5,6 @@
 <ol
   <b>https://elvissouza.github.io/Snake-Game/<b><br>
     <img src ="https://raw.githubusercontent.com/elvissouza/elvissouza.github.io/master/Snake-Game/assets/gifOfGame.gif">
-    <h6>Havia desenvolvido quase 4 meses atrás meu primeiro jogo da snake, com pouco conhecimento, agora dei uma *melhorada* como tenho    pouca experiencia, creio que cheguei em um resultado que me deixou feliz.</h6>
-    <h6>Tirei uns bugs que havia na contagem de pontos, que antes não funcionava se os pontos fossem *zero*, etc.</h6>
+    <h6>Havia desenvolvido quase 4 meses atrás meu primeiro jogo da snake, com pouco conhecimento, agora dei uma melhorada como tenho    pouca experiencia, creio que cheguei em um resultado que me deixou feliz.</h6>
+    <h6>Tirei uns bugs que havia na contagem de pontos, que antes não funcionava se os pontos fossem zero, etc.</h6>
 <ol>
