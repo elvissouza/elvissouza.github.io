@@ -4,5 +4,5 @@
 <h4>Aqui, onde colocarei os meus folders online. Obrigado por estar lendo isto e se curtir algum topico ou jogo. Ficarei feliz 😸.</h4><br>
 <ol>
   <b>https://elvissouza.github.io/Snake-Game/<b><br>
-    <img src ="https://raw.githubusercontent.com/elvissouza/elvissouza.github.io/master/Snake-Game/assets/gifOfGame.gif">
+    <img src ="https://raw.githubusercontent.com/elvissouza/Snake-game/master/assets/gifOfGame.gif">
 <ol>
