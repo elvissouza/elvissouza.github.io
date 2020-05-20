@@ -2,6 +2,7 @@
 
 ### Captain America Shield with Animation 
 **DEMO: *[Click here](https://elvissouza.github.io/CaptainAmericaShield/)***
+---
 <img src ="https://github.com/elvissouza/CaptainAmericaShield/blob/master/img/website-2.gif?raw=true" height= "49%" width= "45%" align="right">
 <img src ="https://github.com/elvissouza/CaptainAmericaShield/blob/master/img/website-1.gif?raw=true" height= "49%" width= "45%">
 
