@@ -9,6 +9,7 @@
 
 ### Snake Fruits Play 👾 🎮
 **DEMO: *[Click here](https://elvissouza.github.io/Snake-game/)***
+---
 <p align="center">
   <img width="460" height="300" src ="https://github.com/elvissouza/Snake-game/blob/master/img/gifgame.gif?raw=true">
 </p>
@@ -17,10 +18,12 @@
 
 ### Techno-Vue ✔ Practicing Vue with project responsive. 😅
 **Demo: [Click here](https://elvissouza.github.io/Techno-Vue/)**
+---
 <img src ="https://github.com/elvissouza/Techno-Vue/blob/master/img/Tablet.gif?raw=true" height= "50%" width= "80%">
 
 ---
 
 # Course on Flexbox and its properties.
 **DEMO**: [Click Here](https://elvissouza.github.io/Flexblog/)
+---
 <img src ="https://github.com/elvissouza/Flexblog/blob/master/assets/FlexSite.gif?raw=true" width= "80%" height= "auto" align="center">
